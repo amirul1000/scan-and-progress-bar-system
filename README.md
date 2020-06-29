@@ -3,6 +3,8 @@
 Scan and Progress bar in JQuery and JavaScript tutorial
 ========================================================
 
+Scan virus with progress bar visual part
+
 
 Youtube Tutorial : https://youtu.be/gtRXGoEX8mA
 
